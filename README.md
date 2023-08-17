@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Bilgisayar Mühendisi - 27</h3>
 
-- 📝 Kişisel Web Site : <a href="fatihmutlu.online" target="blank">
+- 📝 Kişisel Web Site : <a href="fatihmutlu.online" target="blank">fatihmutlu.online</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
