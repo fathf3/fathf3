@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">Bilgisayar Mühendisi - 27</h3>
+<h3 align="center">Bilgisayar Mühendisi </h3>
 
 - 🔭 Kişisel Web Site : [fatihmutlu.online](fatihmutlu.online)
 
