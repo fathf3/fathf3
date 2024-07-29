@@ -1,13 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-
-
-
-<div align="left"> Web Site
-  <a href="http://fatihmutlu.online/" target="_blank">
-    <img src="http://fatihmutlu.online/assets/img/F3LogoTr.png" width="52" height="40" alt="fatihmutlu"  />
-  </a>
-</div>
 ###
 
 <h2 align="left">About me</h2>
